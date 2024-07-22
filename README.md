@@ -19,7 +19,7 @@
 <div>
   <h3>SOBRE:</h3>
   <p>
-    💻 Desenvolvedor web aspirante com foco em HTML, CSS e JavaScript. Buscando oportunidades para iniciar minha carreira na área de desenvolvimento web. Certificado em HTML, CSS e JavaScript.
+    💻 Desenvolvedor web aspirante com foco em HTML, CSS e JavaScript. Buscando oportunidades para iniciar minha carreira na área de desenvolvimento web. 
   </p>
   <p>
     🔍 Projetos pessoais em constante desenvolvimento para expandir meu portfólio e aprimorar minhas habilidades técnicas.
