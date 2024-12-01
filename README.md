@@ -9,7 +9,7 @@ e outras tecnologias. Estou expandindo meu conhecimento
 em backend e computação em nuvem e no momento estou em busca 
 de oportunidades no mercado de TI!**
 
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_luizj/)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_luiizj/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiizj)
 
 ***
